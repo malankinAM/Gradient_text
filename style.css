@@ -1,0 +1,9 @@
+h1 {
+    font-size: 200px;
+    font-family: sans-serif;
+    text-align: center;
+    background: rgb(131,58,180);
+    background: linear-gradient(150deg, rgba(131,58,180,1) 50%, rgba(176,9,9,1) 50%, rgba(69,252,78,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  }
